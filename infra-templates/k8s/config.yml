@@ -1,4 +1,4 @@
-name: Kubernetes
+name: Kubernetes_lisong
 version: v1.8.5-rancher4
 category: Orchestration
 labels:
